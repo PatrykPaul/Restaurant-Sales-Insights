@@ -1,4 +1,4 @@
-# Savory Bites Sales Analysis 2023
+# Savory Bites Sales Analysis 2022-2023
 
 ![Dashboard Overview](https://github.com/SnajperHS/Restaurant-Sales-Insights/blob/main/Assets/Dashboard.PNG?raw=true)
 
